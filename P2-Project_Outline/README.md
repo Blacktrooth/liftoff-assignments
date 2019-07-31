@@ -7,12 +7,29 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+This app is called "Murality". It's an app for Artist and Art lovers to meet and artist sell their wares. It's a one stop shop for people who want artwork done, but either don't know where to get and artist or don't know how much a work of art cost. This app will work as an intermediary for both parties to find a mutual agreement on artwork and prices. 
+
 ### Features
-Include Features here
+.Art calculator for upfront estimates 
+.Art gallery for Artist to show work
+.project board for artist to organize work and cost
+.schedule calendar for artist and client can negoitate availability
+
+
 ### Technologies
-Include Technologies here
+java
+springboot 
+HTML
+CSS
+bootstrap 
+MYSQL
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+/ How to make an updateable calender
+/ How to make a gallery function
+/ How to get User account communitcate with Artist account
+/ How to link material list items to store upc info. 
+
+
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/S2nZ8X2P
