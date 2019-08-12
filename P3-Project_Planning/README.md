@@ -8,6 +8,8 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 ![](https://github.com/Blacktrooth/liftoff-assignments/blob/master/mock-ups/ARTISTGALLERY.png)
+![](https://github.com/Blacktrooth/liftoff-assignments/blob/master/mock-ups/MuralityWebPage.png)
+![](https://github.com/Blacktrooth/liftoff-assignments/blob/master/mock-ups/artistlogin.png)
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
 
 ### Project Tracker
